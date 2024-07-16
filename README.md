@@ -1,0 +1,3 @@
+# Моё резюме
+## Данные могут быть не точными...
+Открывай, [Дока]([https://doka.guide "Энциклопедия про web-dev](https://manzaero.github.io/resume/))!
