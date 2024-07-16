@@ -1,3 +1,4 @@
 # Моё резюме
 ## Данные могут быть не точными...
-Привет, ([https://doka.guide](https://manzaero.github.io/resume/) "кликни")!
+Привет, [резюме]([https://doka.guide](https://manzaero.github.io/resume/) "кликай")!
+
